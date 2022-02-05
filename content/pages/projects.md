@@ -44,8 +44,59 @@ Reviewers:
 
 Selected student projects are presented below. Materials are courtesy of the students, and used with permission.
 
-| PROJECTS | M1 (MIDTERM) REVIEW | M2 (FINAL) REVIEW |
-| --- | --- | --- |
-| Introduction by Andrew Heafitz | _not available_ | ([MP4 - 24 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Intro_Heafitz-12dec05-220k.mp4)) |
-| Internet Kiosks, by Nupur Garg | ([MP4 - 110 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-01nov05-220k.mp4)) | ([MP4 - 150 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-08dec05-220k.mp4)) |
-| Solar Water Disinfection (SoDis), by Alfinio Flores | ([MP4 - 113 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Flores-01nov05-220k.mp4)) | ([MP3 - 10 MB](http://www.archive.org/download/MITSP.724F05/Alfinio_Flores_12805.mp3))  {{< br >}}  {{< br >}}Still Image of SoDis Bag ([JPEG]({{< baseurl >}}/resources/sodis))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+M1 (MIDTERM) REVIEW
+{{< thclose >}}
+{{< thopen >}}
+M2 (FINAL) REVIEW
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction by Andrew Heafitz
+{{< tdclose >}}
+{{< tdopen >}}
+_not available_
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 24 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Intro_Heafitz-12dec05-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Internet Kiosks, by Nupur Garg
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 110 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-01nov05-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 150 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-08dec05-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Solar Water Disinfection (SoDis), by Alfinio Flores
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 113 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Flores-01nov05-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 10 MB](http://www.archive.org/download/MITSP.724F05/Alfinio_Flores_12805.mp3))  
+  
+Still Image of SoDis Bag ([JPEG]({{< baseurl >}}/resources/sodis))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

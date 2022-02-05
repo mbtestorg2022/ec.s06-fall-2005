@@ -11,19 +11,120 @@ The following resources are consulted during class lectures.
 Fundraising Resources Around MIT
 --------------------------------
 
-| NAMES | APPLICATION DEADLINES |
-| --- | --- |
-| [PSC Grants](http://web.mit.edu/mitpsc/resources/grants/) | Rolling Applications |
-| [Fellowship Grants](http://web.mit.edu/mitpsc/fellowships/) | October 21, 2005 |
-| [Baker Fellowship](http://bakerfoundation.mit.edu/) (Must include faculty member) | November 4, 2005 |
-| [IDEAS Working Grants](http://web.mit.edu/ideas/www/index.htm) | November 14, 2005 |
-| [$100K Entrepreneurship Competition](http://www.mit100k.org/) | November 14, 2005 |
-| [Global Social Ventures](https://gsvc.org/) | November 16, 2005 |
-| [Carroll Wilson Award](https://cee.mit.edu/apply-for-the-carroll-l-wilson-scholarship/) | January 16, 2006 |
-| [The Ignite Clean Energy Competition](http://www.ignitecleanenergy.com/) | March 1, 2006 |
-| [IDEAS Working Grants](http://web.mit.edu/ideas/www/index.htm) | March 13, 2006 |
-| [IDEAS Final Application](http://web.mit.edu/ideas/www/index.htm) | April 19, 2006 |
-| [VentureWell: E-Team Program](https://venturewell.org/events-and-opportunities/) | December 2, May 12   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+NAMES
+{{< thclose >}}
+{{< thopen >}}
+APPLICATION DEADLINES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[PSC Grants](http://web.mit.edu/mitpsc/resources/grants/)
+{{< tdclose >}}
+{{< tdopen >}}
+Rolling Applications
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fellowship Grants](http://web.mit.edu/mitpsc/fellowships/)
+{{< tdclose >}}
+{{< tdopen >}}
+October 21, 2005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Baker Fellowship](http://bakerfoundation.mit.edu/) (Must include faculty member)
+{{< tdclose >}}
+{{< tdopen >}}
+November 4, 2005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[IDEAS Working Grants](http://web.mit.edu/ideas/www/index.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+November 14, 2005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[$100K Entrepreneurship Competition](http://www.mit100k.org/)
+{{< tdclose >}}
+{{< tdopen >}}
+November 14, 2005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Global Social Ventures](https://gsvc.org/)
+{{< tdclose >}}
+{{< tdopen >}}
+November 16, 2005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Carroll Wilson Award](https://cee.mit.edu/apply-for-the-carroll-l-wilson-scholarship/)
+{{< tdclose >}}
+{{< tdopen >}}
+January 16, 2006
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[The Ignite Clean Energy Competition](http://www.ignitecleanenergy.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+March 1, 2006
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[IDEAS Working Grants](http://web.mit.edu/ideas/www/index.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+March 13, 2006
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[IDEAS Final Application](http://web.mit.edu/ideas/www/index.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+April 19, 2006
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[VentureWell: E-Team Program](https://venturewell.org/events-and-opportunities/)
+{{< tdclose >}}
+{{< tdopen >}}
+December 2, May 12  
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Product Design and Development
 ------------------------------

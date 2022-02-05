@@ -24,14 +24,75 @@ Grading Policy
 
 This is a six-unit class: three hours a week will be spent in class and the remaining three hours will be spent doing homework and working on the design projects, both individually and in groups. Because much of the work for this seminar will be done during class time, attendance is essential. Students missing a class meeting should contact the instructor and their group to make up the work. Students may not miss more than two classes during the semester. This seminar is graded on an A/B/C/D/F basis, furthermore it is a class where your work is impacting the lives of people around the world and we expect an appropriate level of commitment.
 
-| activities | percentages |
-| --- | --- |
-| Class Participation and Attendance | 10% |
-| Weekly Progress/Updates | 15% |
-| Homework Assignments | 10% |
-| M1 Design Review | 25% |
-| Final Design/Prototype | 15% |
-| M2 Final Presentation | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation and Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Progress/Updates
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M1 Design Review
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Design/Prototype
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M2 Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Group Meetings and Weekly Updates
 ---------------------------------
