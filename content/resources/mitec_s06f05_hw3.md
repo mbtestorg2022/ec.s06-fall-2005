@@ -4,6 +4,7 @@ description: This resource provides information about homework 3 which contains 
   week schedule.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-s06-prototypes-to-products-fall-2005/72828908683aa7ede62b2ff7612cdc28_MITEC_S06F05_hw3.pdf
 file_type: application/pdf
+parent_uid: db879f2d-c8af-4c37-ecf4-3af94e24c59f
 resourcetype: Document
 title: 'Homework 3: Detailed Schedule'
 uid: 72828908-683a-a7ed-e62b-2ff7612cdc28

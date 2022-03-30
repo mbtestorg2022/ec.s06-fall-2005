@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 44ce41d0-1ddb-8764-1d87-e03569514946
 resourcetype: Image
 title: sodis.jpg
 uid: b0205385-aef4-090d-efba-721749c45b38
